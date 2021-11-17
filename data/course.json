@@ -1,0 +1,29 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Phonology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "29b32028-314d-55a5-e5a8-7770ba8ab63a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Linguistic Phonetics",
+  "course_description": "This course is about the study of speech sounds; how we produce and perceive them and their acoustic properties. Topics include the influence of the production and perception systems on phonological patterns and sound change, students learn acoustic analysis and experimental techniques. Students taking the graduate version complete different assignments.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "24.963",
+  "primary_course_number": "24.915",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Written Assignments",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
